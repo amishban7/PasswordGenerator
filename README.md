@@ -2,7 +2,7 @@
 
 A simple, user-friendly web application that generates random passwords with customizable options. Built to practice JavaScript logic, DOM manipulation, and interactive web development.
 
-🔗 **Live Demo:** [Add your Password Generator URL here](#)
+🔗 **Live Demo:** https://passwordgenerator55254.netlify.app/
 
 ## Features
 
@@ -26,7 +26,7 @@ A simple, user-friendly web application that generates random passwords with cus
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_PASSWORD_GENERATOR_REPOSITORY_URL
+   git clone [https://passwordgenerator55254.netlify.app/]
    ```
 
 2. Open the project folder in Visual Studio Code.
